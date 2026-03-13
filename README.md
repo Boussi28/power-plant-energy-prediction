@@ -220,9 +220,8 @@ power-plant-energy-prediction
 
 ---
 
-# Technologies Used
+# Libraries Used
 
-- Python
 - Pandas
 - NumPy
 - Scikit-learn
