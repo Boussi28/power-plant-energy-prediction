@@ -286,7 +286,7 @@ power-plant-energy-prediction
 Install the required libraries:
 
 ```
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 Run the model script:
