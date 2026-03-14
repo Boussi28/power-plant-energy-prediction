@@ -260,11 +260,11 @@ power-plant-energy-prediction
 ├── data
 │   └── power_plant_data.csv
 │
+├── results 
+│   └── generated plots 
+│
 ├── src
 │   └── power_plant_model.py
-│
-├── results
-│   └── generated plots
 │
 └── README.md
 ```
